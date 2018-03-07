@@ -1,5 +1,5 @@
 [
-      "Employee1":{
+      {
 
     "id":1,
     "Incidentid":1234,
@@ -9,7 +9,7 @@
     "createddate":"02-11-2017",
    "Modifieddate":"02-12-2017"
     },
-      "Employee2":{
+      {
 
     "id":2,
     "Incidentid":67890,
