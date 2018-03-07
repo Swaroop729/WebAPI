@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "Employee1":{
+
+    "id":1,
+    "Incidentid":1234,
+    "percentage":100,
+    "comment":"Second task",
+    "Applicationname":"CQA",
+    "createddate":"02-11-2017",
+   "Modifieddate":"02-12-2017"
+    },
+      "Employee2":{
+
+    "id":2,
+    "Incidentid":67890,
+    "percentage":20,
+    "comment":"Second task",
+    "Applicationname":"CQA",
+    "createddate":"02-11-2017",
+   "Modifieddate":"02-12-2017"
+    }
+
+
 }
