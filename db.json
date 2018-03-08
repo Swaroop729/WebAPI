@@ -1,24 +1,31 @@
-[
-      {
-
-    "id":1,
-    "Incidentid":1234,
-    "percentage":100,
-    "comment":"Second task",
-    "Applicationname":"CQA",
-    "createddate":"02-11-2017",
-   "Modifieddate":"02-12-2017"
+{
+  "Incidents": [
+    {
+      "id": 1,
+      "Incidentid": 1234,
+      "percentage": 100,
+      "comment": "Second task",
+      "Applicationname": "CQA",
+      "createddate": "02-11-2017",
+      "Modifieddate": "02-12-2017"
     },
-      {
-
-    "id":2,
-    "Incidentid":67890,
-    "percentage":20,
-    "comment":"Second task",
-    "Applicationname":"CQA",
-    "createddate":"02-11-2017",
-   "Modifieddate":"02-12-2017"
+    {
+      "id": 2,
+      "Incidentid": 67890,
+      "percentage": 20,
+      "comment": "Second task",
+      "Applicationname": "CQA",
+      "createddate": "02-11-2017",
+      "Modifieddate": "02-12-2017"
+    },
+    {
+      "Incidentid": 99999,
+      "percentage": 20,
+      "comment": "Second task",
+      "Applicationname": "CQA",
+      "createddate": "02-11-2017",
+      "Modifieddate": "02-12-2017",
+      "id": 3
     }
-
-
-]
+  ]
+}
