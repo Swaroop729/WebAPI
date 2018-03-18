@@ -1,31 +1,504 @@
 {
   "Incidents": [
-    {
-      "id": 1,
-      "Incidentid": 1234,
-      "percentage": 100,
-      "comment": "Second task",
-      "Applicationname": "CQA",
-      "createddate": "02-11-2017",
-      "Modifieddate": "02-12-2017"
-    },
-    {
-      "id": 2,
-      "Incidentid": 67890,
-      "percentage": 20,
-      "comment": "Second task",
-      "Applicationname": "CQA",
-      "createddate": "02-11-2017",
-      "Modifieddate": "02-12-2017"
-    },
-    {
-      "Incidentid": 99999,
-      "percentage": 20,
-      "comment": "Second task",
-      "Applicationname": "CQA",
-      "createddate": "02-11-2017",
-      "Modifieddate": "02-12-2017",
-      "id": 3
-    }
-  ]
+  {
+    "Id": 1,
+    "IncidentId": 44365,
+    "Percentage": 36,
+    "Comment": "Eaque harum unde reprehenderit illo facilis itaque.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-15T14:47:43.133Z",
+    "ModifiedDate": "2018-02-01T00:13:45.001Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 2,
+    "IncidentId": 10112,
+    "Percentage": 85,
+    "Comment": "Quis minima provident.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-05-24T12:44:26.602Z",
+    "ModifiedDate": "2018-03-09T01:44:32.869Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 3,
+    "IncidentId": 36681,
+    "Percentage": 97,
+    "Comment": "Autem esse iure vel est iste distinctio optio est illo.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-11-22T07:00:16.063Z",
+    "ModifiedDate": "2017-12-22T00:17:34.408Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 4,
+    "IncidentId": 53615,
+    "Percentage": 63,
+    "Comment": "Voluptas enim molestias non hic ut quas.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-04-12T07:06:59.900Z",
+    "ModifiedDate": "2017-04-23T01:41:12.412Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 5,
+    "IncidentId": 86424,
+    "Percentage": 10,
+    "Comment": "Porro quo asperiores eum veritatis culpa ut numquam ut autem.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-06-23T09:13:23.280Z",
+    "ModifiedDate": "2017-10-21T04:57:09.938Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 6,
+    "IncidentId": 12553,
+    "Percentage": 33,
+    "Comment": "Omnis autem dolores.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-06-28T14:55:45.624Z",
+    "ModifiedDate": "2017-08-02T02:43:55.041Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 7,
+    "IncidentId": 67534,
+    "Percentage": 90,
+    "Comment": "Deleniti ullam id nostrum et voluptatem.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-04-10T16:53:30.680Z",
+    "ModifiedDate": "2017-04-22T10:49:01.287Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 8,
+    "IncidentId": 98076,
+    "Percentage": 21,
+    "Comment": "Doloremque nam aut corporis consequatur fugit magnam nulla nisi.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-04-07T18:41:29.106Z",
+    "ModifiedDate": "2017-05-17T11:52:44.563Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 9,
+    "IncidentId": 57192,
+    "Percentage": 82,
+    "Comment": "Dolores porro ipsum consequuntur excepturi perferendis distinctio iusto.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-07-02T08:15:44.723Z",
+    "ModifiedDate": "2018-02-22T00:22:04.256Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 10,
+    "IncidentId": 82250,
+    "Percentage": 10,
+    "Comment": "Aut vero laborum est sit aut porro eligendi libero.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-08-17T14:27:01.080Z",
+    "ModifiedDate": "2017-04-30T19:19:12.663Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 11,
+    "IncidentId": 63334,
+    "Percentage": 80,
+    "Comment": "Illum itaque ex quo.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-09-04T03:16:35.237Z",
+    "ModifiedDate": "2017-08-27T08:54:22.931Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 12,
+    "IncidentId": 63315,
+    "Percentage": 29,
+    "Comment": "Provident quidem facilis amet quas sit voluptas vitae sapiente.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-26T10:59:13.516Z",
+    "ModifiedDate": "2017-03-29T01:06:21.942Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 13,
+    "IncidentId": 39600,
+    "Percentage": 37,
+    "Comment": "Neque pariatur quo excepturi dolore facilis reprehenderit labore dolorem hic.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-07-26T10:31:43.362Z",
+    "ModifiedDate": "2017-08-17T02:29:59.555Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 14,
+    "IncidentId": 87608,
+    "Percentage": 71,
+    "Comment": "Voluptates officia at beatae iste suscipit repellat nisi.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-01-28T17:16:57.323Z",
+    "ModifiedDate": "2017-06-25T16:19:16.157Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 15,
+    "IncidentId": 9936,
+    "Percentage": 17,
+    "Comment": "Non quae sunt temporibus non consectetur eum fugiat.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-06-24T03:17:50.127Z",
+    "ModifiedDate": "2018-01-24T16:25:23.889Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 16,
+    "IncidentId": 19998,
+    "Percentage": 94,
+    "Comment": "Sint velit enim qui dicta id officia consequatur labore et.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-31T17:02:09.520Z",
+    "ModifiedDate": "2017-04-12T03:53:05.892Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 17,
+    "IncidentId": 36495,
+    "Percentage": 96,
+    "Comment": "Et dolores deleniti quibusdam id rerum cum.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-02-07T09:35:37.467Z",
+    "ModifiedDate": "2018-02-15T17:42:59.656Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 18,
+    "IncidentId": 15629,
+    "Percentage": 11,
+    "Comment": "Alias est earum rerum.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-01-06T23:33:40.491Z",
+    "ModifiedDate": "2017-05-28T07:54:42.703Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 19,
+    "IncidentId": 36154,
+    "Percentage": 95,
+    "Comment": "Nemo qui qui occaecati quis aut voluptatibus omnis ut in.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-01-10T12:26:06.983Z",
+    "ModifiedDate": "2017-05-03T14:57:14.348Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 20,
+    "IncidentId": 74649,
+    "Percentage": 30,
+    "Comment": "Animi culpa perferendis.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-10-09T23:52:21.025Z",
+    "ModifiedDate": "2017-10-16T18:11:19.576Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 21,
+    "IncidentId": 54300,
+    "Percentage": 70,
+    "Comment": "Rerum quasi excepturi quibusdam sit ab minima consequuntur.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-05-02T00:01:53.896Z",
+    "ModifiedDate": "2017-07-23T07:33:22.380Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 22,
+    "IncidentId": 19211,
+    "Percentage": 94,
+    "Comment": "At officia omnis.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-07-05T09:14:35.438Z",
+    "ModifiedDate": "2017-11-16T08:57:48.620Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 23,
+    "IncidentId": 16986,
+    "Percentage": 59,
+    "Comment": "Suscipit harum nemo saepe error.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-02-08T11:57:41.385Z",
+    "ModifiedDate": "2018-01-21T16:26:13.415Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 24,
+    "IncidentId": 66944,
+    "Percentage": 33,
+    "Comment": "Quos fuga deserunt labore accusantium aperiam sequi illo minus.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-03T04:53:03.805Z",
+    "ModifiedDate": "2017-10-06T16:00:40.493Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 25,
+    "IncidentId": 3584,
+    "Percentage": 53,
+    "Comment": "Est non ut eius blanditiis omnis.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-07-07T03:55:21.280Z",
+    "ModifiedDate": "2017-10-08T11:00:36.208Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 26,
+    "IncidentId": 70895,
+    "Percentage": 35,
+    "Comment": "Accusamus officia adipisci voluptas vero aliquid est.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-05-18T16:56:56.174Z",
+    "ModifiedDate": "2017-08-01T20:56:59.443Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 27,
+    "IncidentId": 66720,
+    "Percentage": 25,
+    "Comment": "Vel consequuntur velit vel.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-01T21:47:20.193Z",
+    "ModifiedDate": "2017-04-29T12:18:32.652Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 28,
+    "IncidentId": 59686,
+    "Percentage": 65,
+    "Comment": "Vel reprehenderit illo et dolorem non adipisci et consequatur et.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-10-04T14:53:45.898Z",
+    "ModifiedDate": "2017-09-05T13:43:01.706Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 29,
+    "IncidentId": 45519,
+    "Percentage": 87,
+    "Comment": "Praesentium incidunt autem provident.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-10-29T22:40:30.478Z",
+    "ModifiedDate": "2018-03-05T16:37:24.828Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 30,
+    "IncidentId": 85480,
+    "Percentage": 47,
+    "Comment": "Sit distinctio tenetur doloremque corrupti eligendi.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-07-20T20:50:58.577Z",
+    "ModifiedDate": "2018-02-08T09:03:03.079Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 31,
+    "IncidentId": 792,
+    "Percentage": 52,
+    "Comment": "Sunt at laboriosam qui asperiores sunt placeat.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-07T05:20:52.786Z",
+    "ModifiedDate": "2017-12-09T08:27:59.172Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 32,
+    "IncidentId": 26358,
+    "Percentage": 74,
+    "Comment": "Quidem natus sed voluptate nesciunt pariatur sint accusantium corrupti qui.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-03T12:37:58.368Z",
+    "ModifiedDate": "2017-12-15T12:42:44.583Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 33,
+    "IncidentId": 72110,
+    "Percentage": 94,
+    "Comment": "Et accusamus sapiente magnam sint placeat et accusantium consequatur aliquid.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-09-13T05:24:08.209Z",
+    "ModifiedDate": "2017-04-23T03:54:27.801Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 34,
+    "IncidentId": 80822,
+    "Percentage": 4,
+    "Comment": "Magni iste aut asperiores quos rem deleniti.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-11-22T12:46:44.268Z",
+    "ModifiedDate": "2018-02-26T23:12:21.822Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 35,
+    "IncidentId": 57687,
+    "Percentage": 81,
+    "Comment": "Aspernatur sequi sed blanditiis et maiores.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-06-23T11:58:30.888Z",
+    "ModifiedDate": "2017-09-19T07:19:31.149Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 36,
+    "IncidentId": 86813,
+    "Percentage": 94,
+    "Comment": "Maxime et corrupti.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-03-02T11:25:31.556Z",
+    "ModifiedDate": "2018-02-27T08:24:49.765Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 37,
+    "IncidentId": 11957,
+    "Percentage": 25,
+    "Comment": "Quas enim cumque amet omnis eligendi dolorem nam.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-02-09T03:42:11.706Z",
+    "ModifiedDate": "2017-06-02T19:57:58.805Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 38,
+    "IncidentId": 58823,
+    "Percentage": 92,
+    "Comment": "Officiis ipsam quam.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-03-23T00:25:33.287Z",
+    "ModifiedDate": "2017-07-24T16:41:45.654Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 39,
+    "IncidentId": 29562,
+    "Percentage": 39,
+    "Comment": "Aliquam illum consequatur qui quia assumenda quaerat.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-04-23T11:07:39.793Z",
+    "ModifiedDate": "2017-03-31T23:27:53.217Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 40,
+    "IncidentId": 33410,
+    "Percentage": 64,
+    "Comment": "Voluptate libero id quasi quia praesentium.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-11-01T05:07:56.416Z",
+    "ModifiedDate": "2017-09-18T22:35:28.035Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 41,
+    "IncidentId": 46121,
+    "Percentage": 6,
+    "Comment": "Dolor dolorum et corporis maxime.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-04-16T17:58:27.001Z",
+    "ModifiedDate": "2017-08-18T07:44:19.960Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 42,
+    "IncidentId": 52456,
+    "Percentage": 30,
+    "Comment": "Ut voluptatem qui voluptatem voluptas doloremque.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-10-21T16:23:08.358Z",
+    "ModifiedDate": "2017-08-14T19:41:50.570Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 43,
+    "IncidentId": 28414,
+    "Percentage": 73,
+    "Comment": "Cumque rerum ea ullam expedita corporis doloribus.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-01-26T18:29:06.718Z",
+    "ModifiedDate": "2017-08-20T18:49:23.140Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 44,
+    "IncidentId": 57102,
+    "Percentage": 71,
+    "Comment": "Sed dignissimos neque optio quaerat et qui eum.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-10-26T01:00:33.592Z",
+    "ModifiedDate": "2017-11-26T07:56:01.415Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 45,
+    "IncidentId": 61057,
+    "Percentage": 71,
+    "Comment": "Vitae et dolorem in ducimus omnis laboriosam.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2018-01-18T20:34:38.861Z",
+    "ModifiedDate": "2017-11-02T03:53:18.475Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 46,
+    "IncidentId": 57981,
+    "Percentage": 36,
+    "Comment": "Sit harum voluptatem atque ad et.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-05-21T21:34:01.785Z",
+    "ModifiedDate": "2018-01-15T04:45:28.526Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 47,
+    "IncidentId": 80833,
+    "Percentage": 85,
+    "Comment": "Qui et nihil atque et.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-12-08T20:56:05.205Z",
+    "ModifiedDate": "2017-11-08T12:28:27.827Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 48,
+    "IncidentId": 37659,
+    "Percentage": 51,
+    "Comment": "Et sit quo omnis id vero assumenda rerum.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-03-14T06:43:17.435Z",
+    "ModifiedDate": "2018-01-12T15:36:34.460Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 49,
+    "IncidentId": 19970,
+    "Percentage": 76,
+    "Comment": "Minima qui ratione et eum soluta earum quasi.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-11-19T04:46:28.466Z",
+    "ModifiedDate": "2018-03-12T03:03:10.484Z",
+    "ResolutionDate": "2018-03-13"
+  },
+  {
+    "Id": 50,
+    "IncidentId": 95529,
+    "Percentage": 18,
+    "Comment": "Aliquid soluta ad et officia ipsa.",
+    "ApplicationName": "CQA",
+    "CreatedDate": "2017-09-08T08:30:33.832Z",
+    "ModifiedDate": "2017-07-27T02:20:01.985Z",
+    "ResolutionDate": "2018-03-13"
+  }
+]
 }
